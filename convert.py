@@ -1,6 +1,6 @@
 import csv
 
-csvFile = 'sample.csv'
+csvFile = 'import.csv'
 xmlFile = 'alias.xml'
 
 csvData = csv.reader(open(csvFile))
